@@ -1,0 +1,9 @@
+E:\Workplace\LiveVM\LiveVM\obj\Debug\LiveVM.csprojResolveAssemblyReference.cache
+E:\Workplace\LiveVM\LiveVM\bin\Debug\LiveVM.dll
+E:\Workplace\LiveVM\LiveVM\bin\Debug\LiveVM.pdb
+E:\Workplace\LiveVM\LiveVM\bin\Debug\BilibiliDM_PluginFramework.dll
+E:\Workplace\LiveVM\LiveVM\bin\Debug\BilibiliDM_PluginFramework.xml
+E:\Workplace\LiveVM\LiveVM\obj\Debug\LiveVM.dll
+E:\Workplace\LiveVM\LiveVM\obj\Debug\LiveVM.pdb
+E:\Workplace\LiveVM\LiveVM\obj\Debug\LiveVM.setting.resources
+E:\Workplace\LiveVM\LiveVM\obj\Debug\LiveVM.csproj.GenerateResource.Cache
